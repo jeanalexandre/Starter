@@ -4,3 +4,4 @@
 starter-nest/\.idea/
 
 starter-nest/\node_modules/
+starter-nest/dist/
